@@ -48,14 +48,9 @@ The workflow ensures that my project is automatically built and tested every tim
 A video showcasing the app's functionality can be viewed here: 
 ---
 
-
-
 9. References
 -------------
 ## References
+The Independent Institute of Education (IIE). 2026. *PROG5121 Programming 1A Module Manual*. Unpublished module manual. The Independent Institute of Education, South Africa.
 
-
-
----
-- **Figure 1.1**: Screenshot of the app's home screen.
-- **Figure 1.2**: Screenshot of the user profile screen.
+The Independent Institute of Education (IIE). 2026. *PROG5121 Programming 1A Portfolio of Evidence (PoE): Part 1 Assessment Brief*. Unpublished assessment brief. The Independent Institute of Education, South Africa.
