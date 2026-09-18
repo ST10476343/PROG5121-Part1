@@ -40,13 +40,13 @@ The workflow ensures that my project is automatically built and tested every tim
 ## INPUTS to run program
 
 
-First Name:	Thoriso
-Last Name:	Molefe
-Username:	kyl_1
-Password:	Ch&sec@ke99!
-Phone Number:	+27838968976
-Login Username:	kyl_1
-Login Password:	Ch&sec@ke99!
+**First Name**:	Thoriso
+**Last Name**:	Molefe
+**Username**:	kyl_1
+**Password**:	Ch&sec@ke99!
+**Phone Number**:	+27838968976
+**Login Username**:	kyl_1
+**Login Password**:	Ch&sec@ke99!
 
 ---------------------------
 ## Screenshots
