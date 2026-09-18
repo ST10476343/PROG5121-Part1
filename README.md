@@ -32,6 +32,10 @@ The workflow ensures that my project is automatically built and tested every tim
 ---
 
 6. Screenshots and App Demo
+
+    loginTest: <img width="1914" height="1078" alt="LoginTest" src="https://github.com/user-attachments/assets/c3315b9c-bb2e-41d8-9bad-5d95a19969b3" />
+    working Code: <img width="1919" height="1079" alt="code is working" src="https://github.com/user-attachments/assets/08c5dc8a-9474-4a42-b066-4791f1764c5d" />
+    Login Requirements: <img width="1919" height="1079" alt="login requirements" src="https://github.com/user-attachments/assets/a5805231-bd02-4e8f-9917-d4f36dfda986" />
 ---------------------------
 ## INPUTS to run program
 
