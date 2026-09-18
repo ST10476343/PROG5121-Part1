@@ -10,7 +10,7 @@
 - **Subject**: PROG5121
 
 ## Links
-- **GitHub Repository**: 
+- **GitHub Repository**: https://github.com/ST10476343/PROG5121-Part1/tree/main
 - **YouTube Video**: 
 
 5. GitHub and GitHub Actions Utilization
